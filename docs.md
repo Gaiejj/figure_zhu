@@ -139,13 +139,5 @@
 &#8195;&#8195;我们的**“基于太阳能光热和光催化的新型零碳水净化系统”**得到**陕西省新闻联播、西安TV、中国渔业协会**的报道。（如图）
 
 <center>
-<img src="https://pic3.zhimg.com/80/v2-988e42b763f95867f2f66315e0a2717a_720w.webp" alt="图9渔业协会1" style="100"/>
-</center><center>
-<img src="https://pic2.zhimg.com/80/v2-acd9212f93f8f0dacb28b6625f39c205_720w.webp" alt="图9渔业协会2" style="100"/>
-</center><center>
-<img src="https://pic3.zhimg.com/80/v2-78fdcc3c94cd16633af3a1b777e57746_720w.webp" alt="图9渔业协会3" style="100"/>
-</center><center>
-<img src="https://pic3.zhimg.com/80/v2-6d1e8f0b91d4f7015fdf3ce7065e632a_720w.webp" alt="图9陕西省新闻联播" style="100"/>
-</center><center>
-<img src="https://pic3.zhimg.com/80/v2-0cabaa49b0ba186ed66a20b60e47844e_720w.webp" alt="图9西安TV" style="100"/>
+<img src="https://github.com/Gaiejj/figure_zhu/blob/main/report.jpg" alt="图9西安TV" style="100"/>
 </center><center>媒体报道</center>
