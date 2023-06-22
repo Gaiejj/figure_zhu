@@ -109,9 +109,16 @@
 
 <div align="center">
 
-![Figure 1](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 2](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 3](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 4](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg)
-
-![Figure 5](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 6](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 7](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg) ![Figure 8](https://github.com/Gaiejj/figure_zhu/blob/main/1.jpg)
+| 专利申请号 | 专利名称 | 作者 | 受理状态 |
+| :------: | :----: | :------: | :------: |
+|202321443851.4|一种模块化拼接式自悬浮光催化网|**祝本欣**，**沙祖怡**，杨亚威等|已受理（实用新型专利）|
+|202310506643.2|一种图形化光催化膜的制备方法|**沙祖怡**，杨亚威，**祝本欣**等|已受理（发明专利）|
+|202310499372.2|一种计算机设计太阳能界面蒸发器的方法|**沙祖怡**，杨亚威，郭琳等|已受理（发明专利）|
+|202321446521.0|一种太阳能光热界面蒸发水盐分离装置|**沙祖怡**，**祝本欣**，杨亚威等|已受理（实用新型专利）|
+|202310702029.3|一种太阳能海水淡化和精盐提炼装置|**祝本欣**，杨亚威，**沙祖怡**等|已受理（发明专利）|
+|202321505853.1|一种太阳能光热界面蒸发水盐分离装置|**祝本欣**，杨亚威，**沙祖怡**等|已受理（实用新型专利）|
+|202210960922.1|一种太阳能光热蒸发蒸汽收集装置|阙文修，杨亚威，潘程，**沙祖怡**，**祝本欣**等|实质审查（发明专利）|
+|202211262848.2|一种光热/蒸发界面分离的多级太阳能水蒸发收集装置及方法|阙文修，杨亚威，潘程，**沙祖怡**，**祝本欣**等|实质审查（发明专利）|
 
 </div>
 
